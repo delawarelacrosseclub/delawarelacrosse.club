@@ -1,7 +1,5 @@
 ##### Proudly Representing the University of Delaware in the 2018 Season
 
-![Banner](/meshbanner.jpg)
-
 ## About Us
 
 We generally keep a roster of about 40 players. Every season starts with the goal of winning the National Championship. We compete within Division 1 of the NCLL.
