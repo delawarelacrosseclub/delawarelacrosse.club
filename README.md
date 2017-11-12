@@ -10,7 +10,7 @@ Tryouts occur at the beginning of each semester. We expect to take 12-15 players
 
 ## Roster
 
-![Team Photo](/images/TeamPhoto.jpg)
+![Team Photo](/TeamPhoto.jpg)
 
 No. | Name | Position | Year
 ----|------|----------|-----
