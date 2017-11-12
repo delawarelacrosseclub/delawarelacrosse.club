@@ -1,4 +1,4 @@
-# University of Delaware Men's Lacrosse Club
+##### Proudly Representing the University of Delaware in the 2018 Season
 
 ## About Us
 
