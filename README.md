@@ -10,6 +10,8 @@ Tryouts occur at the beginning of each semester. We expect to take 12-15 players
 
 ## Roster
 
+![Team Photo](/images/TeamPhoto.jpg)
+
 No. | Name | Position | Year
 ----|------|----------|-----
 1 |
@@ -39,7 +41,7 @@ Feb. 10 | UD | Newark, DE | W, 0-0
 
 Donate to our UDance Page!
 
-https://www.udancede.org/bpos_teampage.aspx?eventtag=ud2018&teamid=1185
+[GitHub](https://www.udancede.org/bpos_teampage.aspx?eventtag=ud2018&teamid=1185)
 
 ### Philanthropy Chair
 
