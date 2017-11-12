@@ -1,3 +1,5 @@
+[Return Home](http://delawarelacrosse.club/index)
+
 ## Philanthropy
 
 Donate to our UDance Page!
