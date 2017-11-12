@@ -6,8 +6,28 @@ We generally keep a roster of about 40 players. Every season starts with the goa
 ### Tryouts
 Tryouts occur at the beginning of each semester. We expect to take 12-15 players each Fall and about 5 players each Spring. Tryout dates will be posted prior to the start of each semester.
 ## Roster
-
+No. | Name | Position | Year
+----|------|----------|-----
+1 |
+2 |
+3 |
+4 |
+5 |
+6 |
+7 |
+8 |
+9 |
+10 |
+11 |
+12 |
+13 |
+14 |
+15 | 
+16 | Alex Pardus | D | Senior
 ## Schedule
+Date | Opponent | Location | Results
+-----|----------|----------|--------
+Feb. 10 | UD | Newark, DE | W, 0-0
 
 ## Philanthropy
 Donate to our UDance Page!
