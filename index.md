@@ -4,9 +4,9 @@
 
 We generally keep a roster of about 40 players. Every season starts with the goal of winning the National Championship. We compete within Division 1 of the NCLL.
 
-## Navigate
-
 ![Team Photo](/TeamPhoto.jpg)
+
+## Navigate
 
 [Tryout Info](http://delawarelacrosse.club/Tryout.md)
 
