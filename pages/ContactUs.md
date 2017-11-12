@@ -1,3 +1,5 @@
+[Return Home](http://delawarelacrosse.club/index)
+
 ## Contact Us
 
 #### Presidents:
