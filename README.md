@@ -1,9 +1,10 @@
-# delawarelacrosseclub.github.io
-
-# Delaware Lacrosse Club
+# University of Delaware Men's Lacrosse Club
 
 ## About Us
+We generally keep a roster of about 40 players. Every season starts with the goal of winning the National Championship. We compete within Division 1 of the NCLL.
 
+### Tryouts
+Tryouts occur at the beginning of each semester. We expect to take 12-15 players each Fall and about 5 players each Spring. Tryout dates will be posted prior to the start of each semester.
 ## Roster
 
 ## Schedule
