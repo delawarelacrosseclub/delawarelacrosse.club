@@ -8,14 +8,14 @@ We generally keep a roster of about 40 players. Every season starts with the goa
 
 ## Navigate
 
-[Tryout Info](http://delawarelacrosse.club/Tryout.md)
+[Tryout Info](http://delawarelacrosse.club/Tryout)
 
-[Schedule](http://delawarelacrosse.club/Schedule.md)
+[Schedule](http://delawarelacrosse.club/Schedule)
 
-[Roster](http://delawarelacrosse.club/Roster.md)
+[Roster](http://delawarelacrosse.club/Roster)
 
-[Philanthropy](http://delawarelacrosse.club/Philanthropy.md)
+[Philanthropy](http://delawarelacrosse.club/Philanthropy)
 
-[Contact Us](http://delawarelacrosse.club/ContactUs.md)
+[Contact Us](http://delawarelacrosse.club/ContactUs)
 
-![Banner](/MeshBanner.jpg)
+![Banner](/meshbanner.jpg)
