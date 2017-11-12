@@ -41,11 +41,11 @@ Feb. 10 | UD | Newark, DE | W, 0-0
 
 Donate to our UDance Page!
 
-[GitHub](https://www.udancede.org/bpos_teampage.aspx?eventtag=ud2018&teamid=1185)
+[UDance - Men's Club Lacrosse](https://www.udancede.org/bpos_teampage.aspx?eventtag=ud2018&teamid=1185)
 
 ### Philanthropy Chair
 
-Matt Fattibene - mfattibene@udel.edu
+Matt Fattibene - mrf@udel.edu
 
 ## Contact Us
 
@@ -53,7 +53,7 @@ Matt Fattibene - mfattibene@udel.edu
 
 Logan Cotter - lcotter@udel.edu
 
-Michael McLaughlin - mmclaughlin@udel.edu
+Michael McLaughlin - mgmc@udel.edu
 
 ### Treasurer:
 
