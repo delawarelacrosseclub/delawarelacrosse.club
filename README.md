@@ -11,47 +11,28 @@ Tryouts occur at the beginning of each semester. We expect to take 12-15 players
 ## Roster
 
 No. | Name | Position | Year
-
 ----|------|----------|-----
-
 1 |
-
 2 |
-
 3 |
-
 4 |
-
 5 |
-
 6 |
-
 7 |
-
 8 |
-
 9 |
-
 10 |
-
 11 |
-
 12 |
-
 13 |
-
 14 |
-
 15 | 
-
 16 | Alex Pardus | D | Senior
 
 ## Schedule
 
 Date | Opponent | Location | Results
-
 -----|----------|----------|--------
-
 Feb. 10 | UD | Newark, DE | W, 0-0
 
 ## Philanthropy
