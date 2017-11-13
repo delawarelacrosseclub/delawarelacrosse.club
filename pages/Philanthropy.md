@@ -9,3 +9,5 @@ Donate to our UDance Page!
 #### Philanthropy Chair:
 
 Matt Fattibene - mrf@udel.edu
+
+![Banner](/meshbanner.jpg)
