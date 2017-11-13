@@ -16,3 +16,4 @@ Brandon Zenick - bzenick@udel.edu
 
 Alex Pardus - apardus@udel.edu
 
+![Banner](/meshbanner.jpg)
