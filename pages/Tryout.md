@@ -6,3 +6,8 @@ Tryouts occur at the beginning of each semester. We expect to take 12-15 players
 
 #### Spring 2018 Tryout Schedule:
 
+Date & Time TBA
+
+
+
+![Banner](/meshbanner.jpg)
