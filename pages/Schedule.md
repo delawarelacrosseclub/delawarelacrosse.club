@@ -2,9 +2,11 @@
 
 ## Schedule
 
-Date | Opponent | Location | Results
+Date | Opponent | Location | Time | Results
 -----|----------|----------|--------
-11.11.17 | Morgan State | Loyola Univ. of MD | W, 9-4
-11.11.17 | Loyola | Loyola Univ. of MD | L, 6-4
-
+11.11.17 | Morgan State | Loyola Univ. of MD | 10:00am | W, 9-4
+11.11.17 | Loyola | Loyola Univ. of MD | 11:30am | L, 6-4
+3.10.18 | Towson | Univ. of Maryland | TBD |
+3.10.18 | UMD | Univ. of Maryland | TBD |
+4.7.18 | Salisbury | Salisbury University | TBD |
 ![Banner](/meshbanner.jpg)
