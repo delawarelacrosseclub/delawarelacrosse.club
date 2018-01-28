@@ -10,6 +10,6 @@ Date | Opponent | Location | Time | Results
 3.10.18 | UMD | Univ. of Maryland | TBD | TBD
 3.18.18 | Loyola | Univ. of Delaware | 11am | TBD
 4.14.18 | Salisbury | Salisbury University | TBD | TBD
-
+4.19.18 | Del Tech | Univ. of Delaware | TBD | TBD
 
 ![Banner](/meshbanner.jpg)
