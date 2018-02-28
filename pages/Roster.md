@@ -16,7 +16,7 @@ No. | Name | Position | Year
 8 | Sean Doogan | M | Freshman
 9 | Scott DuPont | D | Sophomore
 10 | Ryan Melilo | M | Freshman
-11 | Tucker Meritt | Bench | Junior
+11 | Tucker Meritt | D | Junior
 12 | Nick Gruwell | M | Senior
 13 | Dylan Guesswin | D | Freshman
 14 | Connor Swalm | A | Senior
